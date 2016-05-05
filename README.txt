@@ -1,5 +1,9 @@
-This is a Subversion repository; use the 'svnadmin' tool to examine
-it.  Do not add, delete, or modify files here unless you know how
-to avoid corrupting the repository.
+# Welcome to Openbiz-Cubi Github Mirror
 
-Visit http://subversion.tigris.org/ for more information.
+This repository was auto synced from openbiz-cubi googlecode svn repository
+
+About Openbiz Project - https://github.com/phpOpenbiz/history
+
+Documents can be found at https://github.com/rockycubi/openbiz-cubi/wiki
+
+
