@@ -1,4 +1,4 @@
-# Welcome to Openbiz-Cubi Github Mirror
+Welcome to Openbiz-Cubi Github Mirror
 
 This repository was auto synced from openbiz-cubi googlecode svn repository
 
